@@ -1,4 +1,4 @@
-### Hi there 👋, I'm [Sighfy][website]
+# Hi there 👋, I'm [Sighfy][website]
 
 I remember when I was in middle school, I wanted to be a cool hacker like Neo from the matrix.
 
