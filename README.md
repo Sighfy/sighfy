@@ -4,9 +4,9 @@ I remember when I was in middle school, I wanted to be a cool hacker like Neo fr
 
 ### What I'm up to:
 - 🔭 I’m currently working on Discord bots
-- 🌱 Learning how to use PostgreSQL with python
+- 🌱 Learning how to use PostgreSQL with python (asyncpg)
 - 🧐 Relearning c++ since it's been a while
-- 📫 I can be reached at my [website][website] or at [Discord][discord]
+- 📫 I can be reached at my [website][website]
 - ⚡ Fun fact! I can play 3 instruments
 
 ### Languages and Tools that I like:
@@ -20,7 +20,6 @@ I remember when I was in middle school, I wanted to be a cool hacker like Neo fr
 <img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" style="padding-right:10px;" />
 
 [website]: https://sighfy.dev
-[discord]: https://discordapp.com/users/217143662503526402
 <!--
 **Sighfy/sighfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
