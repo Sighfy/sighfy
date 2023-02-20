@@ -1,7 +1,5 @@
 # Hi there 👋, I'm [Sighfy][website]
 
-I remember when I was in middle school, I wanted to be a cool hacker like Neo from the matrix.
-
 ### What I'm up to:
 - 🔭 I’m currently working on Discord bots
 - 🌱 Learning how to use PostgreSQL with python (asyncpg)
