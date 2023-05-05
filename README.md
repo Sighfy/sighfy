@@ -2,7 +2,7 @@
 
 ### What I'm up to:
 - 🔭 I’m currently working on Discord bots
-- 🌱 Learning how to use PostgreSQL with python (asyncpg)
+- 🌱 Teaching database design and python at [redacted]
 - 🧐 Relearning c++ since it's been a while
 - 📫 I can be reached at my [website][website]
 - ⚡ Fun fact! I can play 3 instruments
