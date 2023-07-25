@@ -3,13 +3,11 @@
 ### What I'm up to:
 - 🔭 I’m currently working on Discord bots
 - 🌱 Teaching database design and python at [redacted]
-- 🧐 Relearning c++ since it's been a while
+- 🧐 Always researching and learning new things
 - 📫 I can be reached at my [website][website]
-- ⚡ Fun fact! I can play 3 instruments
 
 ### Languages and Tools that I like:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" style="padding-right:10px;" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
