@@ -2,7 +2,7 @@
 
 ### What I'm up to:
 - 🔭 I’m currently working on Discord bots
-- 🌱 Teaching database design and python at [redacted]
+- 🌱 Taught database design and python at [redacted]
 - 🧐 Always researching and learning new things
 - 📫 I can be reached at my [website][website]
 
