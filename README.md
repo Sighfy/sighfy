@@ -1,4 +1,7 @@
-# Hi there 👋, I'm [Sighfy][website]
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Sighfy</h1>
+
+Welcome to my page!  
+I'm Sighfy, Software/Web developer
 
 ### What I'm up to:
 - 🔭 I’m either working on something web related or discord bot related
