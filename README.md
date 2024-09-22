@@ -4,7 +4,7 @@ Welcome to my page!
 I'm Sighfy, Software/Web developer
 
 ## What I'm up to:
-- 🔭 I’m either working on something web related or discord bot related
+- 🔭 I’m either working on something web or discord bot related
 - 🧐 Always researching and learning new things
 - 📫 I can be reached at my [website][website]
 
