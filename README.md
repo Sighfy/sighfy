@@ -3,7 +3,7 @@
 Welcome to my page!  
 I'm Sighfy, Software/Web developer
 
-This is my website [website][website]
+This is my website [sighfy.dev][website]
 
 ## Languages and Tools that I use:
 
